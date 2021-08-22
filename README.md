@@ -96,7 +96,7 @@ $ npx mix watch
 -   [DOCS- Styled-components](https://styled-components.com/)
 -   [LINK - useReducer hook](https://blog.logrocket.com/guide-to-react-usereducer-hook/)
 -   [LINK - useContext hook](https://medium.com/technofunnel/usecontext-in-react-hooks-aa9a60b8a461)
--   [LINK - Prop Drilling ("threading")](https://kentcdodds.com/blog/prop-drilling)
+-   [LINK - Prop Drilling "threading"](https://kentcdodds.com/blog/prop-drilling)
 -   [LINK - ThemeProvider](https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider/)
 -   [DOCS - Forms/Controlled Component](https://reactjs.org/docs/forms.html)
 -   [LINK - Accessible modal](https://nainacodes.com/blog/create-an-accessible-and-reusable-react-modal)
